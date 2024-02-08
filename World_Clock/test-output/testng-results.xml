@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-08T10:34:54 GMT" name="Suite" finished-at="2024-02-08T10:35:02 GMT" duration-ms="8151">
+    <groups>
+    </groups>
+    <test started-at="2024-02-08T10:34:54 GMT" name="Test" finished-at="2024-02-08T10:35:02 GMT" duration-ms="8151">
+      <class name="TestCases.All_Apps">
+        <test-method signature="scroll()[pri:13, instance:TestCases.All_Apps@7dcf94f8]" started-at="2024-02-08T10:34:55 GMT" name="scroll" finished-at="2024-02-08T10:34:55 GMT" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="Viewapps()[pri:14, instance:TestCases.All_Apps@7dcf94f8]" started-at="2024-02-08T10:34:55 GMT" name="Viewapps" finished-at="2024-02-08T10:35:00 GMT" duration-ms="4496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viewapps -->
+      </class> <!-- TestCases.All_Apps -->
+      <class name="TestCases.London_info">
+        <test-method signature="LondonWatch_Tittle()[pri:5, instance:TestCases.London_info@217ed35e]" started-at="2024-02-08T10:34:55 GMT" name="LondonWatch_Tittle" finished-at="2024-02-08T10:34:55 GMT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LondonWatch_Tittle -->
+        <test-method signature="London_Time()[pri:6, instance:TestCases.London_info@217ed35e]" started-at="2024-02-08T10:34:55 GMT" name="London_Time" finished-at="2024-02-08T10:34:55 GMT" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- London_Time -->
+        <test-method signature="London_Date()[pri:7, instance:TestCases.London_info@217ed35e]" started-at="2024-02-08T10:34:55 GMT" name="London_Date" finished-at="2024-02-08T10:34:55 GMT" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- London_Date -->
+        <test-method signature="London_Timegap()[pri:8, instance:TestCases.London_info@217ed35e]" started-at="2024-02-08T10:34:55 GMT" name="London_Timegap" finished-at="2024-02-08T10:34:55 GMT" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- London_Timegap -->
+      </class> <!-- TestCases.London_info -->
+      <class name="TestCases.App_Alphabet_List">
+        <test-method signature="Appsalphabet()[pri:15, instance:TestCases.App_Alphabet_List@229f66ed]" started-at="2024-02-08T10:35:00 GMT" name="Appsalphabet" finished-at="2024-02-08T10:35:02 GMT" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appsalphabet -->
+        <test-method signature="Randomalphabet()[pri:16, instance:TestCases.App_Alphabet_List@229f66ed]" started-at="2024-02-08T10:35:02 GMT" name="Randomalphabet" finished-at="2024-02-08T10:35:02 GMT" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randomalphabet -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.App_Alphabet_List@229f66ed]" started-at="2024-02-08T10:35:03 GMT" name="close" finished-at="2024-02-08T10:35:05 GMT" duration-ms="1519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.App_Alphabet_List -->
+      <class name="TestCases.Banglore_info">
+        <test-method signature="BangaloreWatch_Title()[pri:2, instance:TestCases.Banglore_info@682b2fa]" started-at="2024-02-08T10:34:55 GMT" name="BangaloreWatch_Title" finished-at="2024-02-08T10:34:55 GMT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BangaloreWatch_Title -->
+        <test-method signature="Bangalore_Time()[pri:3, instance:TestCases.Banglore_info@682b2fa]" started-at="2024-02-08T10:34:55 GMT" name="Bangalore_Time" finished-at="2024-02-08T10:34:55 GMT" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bangalore_Time -->
+        <test-method signature="Bangalore_Date()[pri:4, instance:TestCases.Banglore_info@682b2fa]" started-at="2024-02-08T10:34:55 GMT" name="Bangalore_Date" finished-at="2024-02-08T10:34:55 GMT" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bangalore_Date -->
+      </class> <!-- TestCases.Banglore_info -->
+      <class name="TestCases.World_Clock_Title">
+        <test-method is-config="true" signature="getWebDriver()[pri:0, instance:TestCases.World_Clock_Title@6a78afa0]" started-at="2024-02-08T10:33:40 GMT" name="getWebDriver" finished-at="2024-02-08T10:34:54 GMT" duration-ms="73337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebDriver -->
+        <test-method signature="Test_WorldClock_Title()[pri:1, instance:TestCases.World_Clock_Title@6a78afa0]" started-at="2024-02-08T10:34:55 GMT" name="Test_WorldClock_Title" finished-at="2024-02-08T10:34:55 GMT" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_WorldClock_Title -->
+      </class> <!-- TestCases.World_Clock_Title -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

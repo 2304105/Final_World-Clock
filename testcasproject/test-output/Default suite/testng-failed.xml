@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testcasproject.Testclock">
+        <methods>
+          <include name="close"/>
+          <include name="Test_WorldClock_Title"/>
+          <include name="NY_Timegap"/>
+          <include name="Bangalore_Date"/>
+          <include name="BangaloreWatch_Title"/>
+          <include name="Bangalore_Time"/>
+          <include name="London_Time"/>
+          <include name="London_Date"/>
+          <include name="London_Timegap"/>
+          <include name="NY_Time"/>
+          <include name="NY_Date"/>
+          <include name="LondonWatch_Tittle"/>
+          <include name="openpage"/>
+          <include name="NY_Watchtittle"/>
+        </methods>
+      </class> <!-- testcasproject.Testclock -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

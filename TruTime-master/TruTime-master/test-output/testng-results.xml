@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-26T19:25:23Z" name="Suite" finished-at="2023-01-26T19:26:33Z" duration-ms="70704">
+    <groups>
+    </groups>
+    <test started-at="2023-01-26T19:25:23Z" name="Test" finished-at="2023-01-26T19:26:33Z" duration-ms="70704">
+      <class name="TestSuites.AppTest">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:TestSuites.AppTest@42a15bdc]" started-at="2023-01-26T19:25:23Z" name="invokeBrowser" finished-at="2023-01-26T19:25:26Z" duration-ms="3694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method signature="testCases()[pri:1, instance:TestSuites.AppTest@42a15bdc]" started-at="2023-01-26T19:25:26Z" name="testCases" finished-at="2023-01-26T19:26:32Z" duration-ms="65386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCases -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestSuites.AppTest@42a15bdc]" started-at="2023-01-26T19:26:32Z" name="closeBrowser" finished-at="2023-01-26T19:26:33Z" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestSuites.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
