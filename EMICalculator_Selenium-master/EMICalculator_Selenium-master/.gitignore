@@ -1,0 +1,7 @@
+#Log reports
+*.html
+
+#Screenshot files
+*.png
+/bin/
+/target/

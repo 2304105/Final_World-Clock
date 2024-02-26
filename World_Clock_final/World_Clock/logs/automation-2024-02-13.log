@@ -1,0 +1,54 @@
+13:03:06.765 [main] INFO  TestCases.User_Validation - *****Tenth Test Case*****
+13:03:06.854 [main] INFO  TestCases.User_Validation - New York Title Validation Completed.....☑️
+13:03:06.862 [main] INFO  TestCases.User_Validation - *****Eleventh Test Case*****
+13:03:06.987 [main] INFO  TestCases.User_Validation - New York Time Validation Completed.....☑️
+13:03:06.994 [main] INFO  TestCases.User_Validation - *****Twelveth Test Case*****
+13:03:07.138 [main] INFO  TestCases.User_Validation - New York Date Validation Completed.....☑️
+13:03:07.144 [main] INFO  TestCases.User_Validation - *****Threenth Test Case*****
+13:03:07.245 [main] INFO  TestCases.User_Validation - Timegap between Banglore and New York Validation Completed.....☑️
+13:03:07.253 [main] INFO  TestCases.User_Validation - *****Fourteenth Test Case*****
+13:03:07.708 [main] INFO  TestCases.User_Validation - ------Successfully Scroll Down------
+13:03:12.722 [main] INFO  TestCases.User_Validation - *****Fifteenth Test Case*****
+13:03:25.926 [main] INFO  TestCases.User_Validation - Switch to OneCognizant Validation Completed.....☑️
+13:03:25.933 [main] INFO  TestCases.User_Validation - *****Sixteenth Test Case*****
+13:03:28.438 [main] INFO  TestCases.User_Validation - Disabled 'X' Validation Completed.....☑️
+13:03:28.444 [main] INFO  TestCases.User_Validation - *****Seventeenth Test Case*****edge
+13:03:30.641 [main] INFO  TestCases.User_Validation - *****All Test Cases Successful*****
+13:04:30.483 [main] INFO  TestCases.User_Validation - *****First Test Case*****
+13:04:39.545 [main] INFO  TestCases.User_Validation - User Validation Completed.....☑️
+13:04:42.233 [main] INFO  TestCases.User_Validation - *****Second Test case*****
+13:04:42.234 [main] INFO  TestCases.User_Validation - World Clock Title validation successfully.....☑️
+13:04:42.626 [main] INFO  TestCases.User_Validation - *****Third Test Case*****
+13:04:42.854 [main] INFO  TestCases.User_Validation - Banglore Title Validation Completed.....☑️
+13:04:42.862 [main] INFO  TestCases.User_Validation - *****Fourth Test Case*****
+13:04:42.917 [main] INFO  TestCases.User_Validation - Banglore Time Validation Completed.....☑️
+13:04:42.925 [main] INFO  TestCases.User_Validation - *****Fifth Test Case*****
+13:04:43.024 [main] INFO  TestCases.User_Validation - Banglore Date Validation Successfully.....☑️
+13:04:43.036 [main] INFO  TestCases.User_Validation - *****Sixth Test Case*****
+13:04:43.099 [main] INFO  TestCases.User_Validation - London Title Validation Completed.....☑️
+13:04:43.224 [main] INFO  TestCases.User_Validation - London Time Validation Completed.....☑️
+13:04:43.230 [main] INFO  TestCases.User_Validation - *****Eighth Test Case*****
+13:04:43.353 [main] INFO  TestCases.User_Validation - London Date Validation Completed.....☑️
+13:04:43.360 [main] INFO  TestCases.User_Validation - *****Nineth Test Case*****
+13:04:43.542 [main] INFO  TestCases.User_Validation - Timegap between Banglore and London Validation Completed.....☑️
+13:04:43.551 [main] INFO  TestCases.User_Validation - *****Tenth Test Case*****
+13:04:43.693 [main] INFO  TestCases.User_Validation - New York Title Validation Completed.....☑️
+13:04:43.700 [main] INFO  TestCases.User_Validation - *****Eleventh Test Case*****
+13:04:43.837 [main] INFO  TestCases.User_Validation - New York Time Validation Completed.....☑️
+13:04:43.846 [main] INFO  TestCases.User_Validation - *****Twelveth Test Case*****
+13:04:43.958 [main] INFO  TestCases.User_Validation - New York Date Validation Completed.....☑️
+13:04:43.964 [main] INFO  TestCases.User_Validation - *****Threenth Test Case*****
+13:04:44.112 [main] INFO  TestCases.User_Validation - Timegap between Banglore and New York Validation Completed.....☑️
+13:04:44.117 [main] INFO  TestCases.User_Validation - *****Fourteenth Test Case*****
+13:04:44.573 [main] INFO  TestCases.User_Validation - ------Successfully Scroll Down------
+13:04:49.578 [main] INFO  TestCases.User_Validation - *****Fifteenth Test Case*****
+13:05:00.823 [main] INFO  TestCases.User_Validation - Switch to OneCognizant Validation Completed.....☑️
+13:05:00.829 [main] INFO  TestCases.User_Validation - *****Sixteenth Test Case*****
+13:05:03.475 [main] INFO  TestCases.User_Validation - Disabled 'X' Validation Completed.....☑️
+13:05:03.479 [main] INFO  TestCases.User_Validation - *****Seventeenth Test Case*****edge
+13:05:12.907 [main] INFO  TestCases.User_Validation - Random Alphabet Validation Completed.....☑️
+13:05:13.946 [main] INFO  TestCases.User_Validation - *****All Test Cases Successful*****
+13:07:22.425 [main] INFO  TestCases.User_Validation - *****First Test Case*****
+13:07:32.534 [main] INFO  TestCases.User_Validation - User Validation Completed.....☑️
+13:07:35.888 [main] INFO  TestCases.User_Validation - *****Second Test case*****
+13:07:35.888 [main] INFO  TestCases.User_Validation - World Clock Title validation successfully.....☑️

@@ -1,0 +1,62 @@
+World Clock
+
+Team 
+---------
+1.Himasnshu Khartade
+2.Sriram S
+3.Rakshita Anchliya
+4.Gaurav Arora
+5.Golla Kavya
+
+
+Project Description
+--------------------
+1.Navigate to Be Cognizant page
+2. verify user Profile
+3. than scroll down to world clock
+4. verify timezone of all three countries
+5. Than scroll back up to apps and tolls
+6. click on ONE Cognizant app
+7 . In new Tab scroll down to Hot apps and click on view all apps
+8. verfiy that in menu 'X' is disabled 
+9. Randomly click on any alphabhet and verfiy those apps are present
+10. close the browser
+
+
+Sources
+-----------
+
+Maven Repository
+https://mvnrepository.com/
+
+
+
+URL of be.cognizant
+https://cognizantonline.sharepoint.com/sites/Be.Cognizant/SitePages/Home.aspx
+
+
+Dependencies
+-------------
+Selenium
+	<dependency>
+	    <groupId>org.seleniumhq.selenium</groupId>
+	    <artifactId>selenium-java</artifactId>
+	    <version>4.15.0</version>
+	</dependency>
+
+Apache POI
+	<dependency>
+	    <groupId>org.apache.poi</groupId>
+	    <artifactId>poi</artifactId>
+	    <version>5.2.4</version>
+	</dependency>
+
+Extent Report
+	<dependency>
+	    <groupId>com.aventstack</groupId>
+	    <artifactId>extentreports</artifactId>
+	    <version>5.1.1</version>
+	</dependency>
+	
+	
+	

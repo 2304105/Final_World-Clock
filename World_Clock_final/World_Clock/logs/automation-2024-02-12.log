@@ -1,0 +1,54 @@
+23:21:38.082 [main] INFO  TestCases.User_Validation - Banglore Time Validation Completed.....☑️
+23:21:38.107 [main] INFO  TestCases.User_Validation - *****Fifth Test Case*****
+23:21:38.202 [main] INFO  TestCases.User_Validation - Banglore Date Validation Successfully.....☑️
+23:21:38.211 [main] INFO  TestCases.User_Validation - *****Sixth Test Case*****
+23:21:38.274 [main] INFO  TestCases.User_Validation - London Title Validation Completed.....☑️
+23:21:38.398 [main] INFO  TestCases.User_Validation - London Time Validation Completed.....☑️
+23:21:38.409 [main] INFO  TestCases.User_Validation - *****Eighth Test Case*****
+23:21:38.548 [main] INFO  TestCases.User_Validation - London Date Validation Completed.....☑️
+23:21:38.554 [main] INFO  TestCases.User_Validation - *****Nineth Test Case*****
+23:21:38.697 [main] INFO  TestCases.User_Validation - Timegap between Banglore and London Validation Completed.....☑️
+23:21:38.703 [main] INFO  TestCases.User_Validation - *****Tenth Test Case*****
+23:21:38.761 [main] INFO  TestCases.User_Validation - New York Title Validation Completed.....☑️
+23:21:38.774 [main] INFO  TestCases.User_Validation - *****Eleventh Test Case*****
+23:21:38.894 [main] INFO  TestCases.User_Validation - New York Time Validation Completed.....☑️
+23:21:38.900 [main] INFO  TestCases.User_Validation - *****Twelveth Test Case*****
+23:21:39.009 [main] INFO  TestCases.User_Validation - New York Date Validation Completed.....☑️
+23:21:39.016 [main] INFO  TestCases.User_Validation - *****Threenth Test Case*****
+23:21:39.111 [main] INFO  TestCases.User_Validation - Timegap between Banglore and New York Validation Completed.....☑️
+23:21:39.118 [main] INFO  TestCases.User_Validation - *****Fourteenth Test Case*****
+23:21:39.521 [main] INFO  TestCases.User_Validation - ------Successfully Scroll Down------
+23:21:44.539 [main] INFO  TestCases.User_Validation - *****Fifteenth Test Case*****
+23:21:50.990 [main] INFO  TestCases.User_Validation - Switch to OneCognizant Validation Completed.....☑️
+23:21:50.996 [main] INFO  TestCases.User_Validation - *****Sixteenth Test Case*****
+23:21:52.805 [main] INFO  TestCases.User_Validation - Disabled 'X' Validation Completed.....☑️
+23:21:52.811 [main] INFO  TestCases.User_Validation - *****Seventeenth Test Case*****
+23:22:02.155 [main] INFO  TestCases.User_Validation - *****All Test Cases Successful*****
+23:27:22.827 [main] INFO  TestCases.User_Validation - *****First Test Case*****
+23:27:34.885 [main] INFO  TestCases.User_Validation - User Validation Completed.....☑️
+23:27:37.387 [main] INFO  TestCases.User_Validation - *****Second Test case*****
+23:27:37.387 [main] INFO  TestCases.User_Validation - World Clock Title validation successfully.....☑️
+23:27:37.707 [main] INFO  TestCases.User_Validation - *****Third Test Case*****
+23:27:37.813 [main] INFO  TestCases.User_Validation - Banglore Title Validation Completed.....☑️
+23:27:37.821 [main] INFO  TestCases.User_Validation - *****Fourth Test Case*****
+23:27:37.890 [main] INFO  TestCases.User_Validation - Banglore Time Validation Completed.....☑️
+23:27:37.898 [main] INFO  TestCases.User_Validation - *****Fifth Test Case*****
+23:27:38.051 [main] INFO  TestCases.User_Validation - Banglore Date Validation Successfully.....☑️
+23:27:38.058 [main] INFO  TestCases.User_Validation - *****Sixth Test Case*****
+23:27:38.118 [main] INFO  TestCases.User_Validation - London Title Validation Completed.....☑️
+23:27:38.257 [main] INFO  TestCases.User_Validation - London Time Validation Completed.....☑️
+23:27:38.264 [main] INFO  TestCases.User_Validation - *****Eighth Test Case*****
+23:27:38.394 [main] INFO  TestCases.User_Validation - London Date Validation Completed.....☑️
+23:27:38.400 [main] INFO  TestCases.User_Validation - *****Nineth Test Case*****
+23:27:38.536 [main] INFO  TestCases.User_Validation - Timegap between Banglore and London Validation Completed.....☑️
+23:27:38.545 [main] INFO  TestCases.User_Validation - *****Tenth Test Case*****
+23:27:38.614 [main] INFO  TestCases.User_Validation - New York Title Validation Completed.....☑️
+23:27:38.619 [main] INFO  TestCases.User_Validation - *****Eleventh Test Case*****
+23:27:38.734 [main] INFO  TestCases.User_Validation - New York Time Validation Completed.....☑️
+23:27:38.741 [main] INFO  TestCases.User_Validation - *****Twelveth Test Case*****
+23:27:38.846 [main] INFO  TestCases.User_Validation - New York Date Validation Completed.....☑️
+23:27:38.853 [main] INFO  TestCases.User_Validation - *****Threenth Test Case*****
+23:27:38.982 [main] INFO  TestCases.User_Validation - Timegap between Banglore and New York Validation Completed.....☑️
+23:27:38.987 [main] INFO  TestCases.User_Validation - *****Fourteenth Test Case*****
+23:27:39.546 [main] INFO  TestCases.User_Validation - ------Successfully Scroll Down------
+23:27:44.556 [main] INFO  TestCases.User_Validation - *****Fifteenth Test Case*****

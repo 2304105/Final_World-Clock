@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-20T16:55:59 IST" name="Suite" finished-at="2024-02-20T16:57:30 IST" duration-ms="91725">
+    <groups>
+    </groups>
+    <test started-at="2024-02-20T16:55:59 IST" name="Test" finished-at="2024-02-20T16:57:30 IST" duration-ms="91725">
+      <class name="TestCases.All_Apps">
+        <test-method signature="scroll()[pri:14, instance:TestCases.All_Apps@1e800aaa]" started-at="2024-02-20T16:56:51 IST" name="scroll" finished-at="2024-02-20T16:56:52 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="Viewapps()[pri:15, instance:TestCases.All_Apps@1e800aaa]" started-at="2024-02-20T16:56:52 IST" name="Viewapps" finished-at="2024-02-20T16:57:12 IST" duration-ms="20436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viewapps -->
+      </class> <!-- TestCases.All_Apps -->
+      <class name="TestCases.London_info">
+        <test-method signature="LondonWatch_Tittle()[pri:6, instance:TestCases.London_info@3eb738bb]" started-at="2024-02-20T16:56:51 IST" name="LondonWatch_Tittle" finished-at="2024-02-20T16:56:51 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LondonWatch_Tittle -->
+        <test-method signature="London_Time()[pri:7, instance:TestCases.London_info@3eb738bb]" started-at="2024-02-20T16:56:51 IST" name="London_Time" finished-at="2024-02-20T16:56:51 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- London_Time -->
+        <test-method signature="London_Date()[pri:8, instance:TestCases.London_info@3eb738bb]" started-at="2024-02-20T16:56:51 IST" name="London_Date" finished-at="2024-02-20T16:56:51 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- London_Date -->
+        <test-method signature="London_Timegap()[pri:9, instance:TestCases.London_info@3eb738bb]" started-at="2024-02-20T16:56:51 IST" name="London_Timegap" finished-at="2024-02-20T16:56:51 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- London_Timegap -->
+      </class> <!-- TestCases.London_info -->
+      <class name="TestCases.App_Alphabet_List">
+        <test-method signature="Appsalphabet()[pri:16, instance:TestCases.App_Alphabet_List@185a6e9]" started-at="2024-02-20T16:57:12 IST" name="Appsalphabet" finished-at="2024-02-20T16:57:16 IST" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appsalphabet -->
+        <test-method signature="Randomalphabet()[pri:17, instance:TestCases.App_Alphabet_List@185a6e9]" started-at="2024-02-20T16:57:16 IST" name="Randomalphabet" finished-at="2024-02-20T16:57:28 IST" duration-ms="12679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randomalphabet -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.App_Alphabet_List@185a6e9]" started-at="2024-02-20T16:57:28 IST" name="close" finished-at="2024-02-20T16:57:30 IST" duration-ms="1972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.App_Alphabet_List -->
+      <class name="TestCases.Banglore_info">
+        <test-method signature="BangaloreWatch_Title()[pri:3, instance:TestCases.Banglore_info@233795b6]" started-at="2024-02-20T16:56:50 IST" name="BangaloreWatch_Title" finished-at="2024-02-20T16:56:50 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BangaloreWatch_Title -->
+        <test-method signature="Bangalore_Time()[pri:4, instance:TestCases.Banglore_info@233795b6]" started-at="2024-02-20T16:56:50 IST" name="Bangalore_Time" finished-at="2024-02-20T16:56:50 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bangalore_Time -->
+        <test-method signature="Bangalore_Date()[pri:5, instance:TestCases.Banglore_info@233795b6]" started-at="2024-02-20T16:56:50 IST" name="Bangalore_Date" finished-at="2024-02-20T16:56:51 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bangalore_Date -->
+      </class> <!-- TestCases.Banglore_info -->
+      <class name="TestCases.World_Clock_Title">
+        <test-method signature="Test_WorldClock_Title()[pri:2, instance:TestCases.World_Clock_Title@f5958c9]" started-at="2024-02-20T16:56:50 IST" name="Test_WorldClock_Title" finished-at="2024-02-20T16:56:50 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_WorldClock_Title -->
+      </class> <!-- TestCases.World_Clock_Title -->
+      <class name="TestCases.NewYork_info">
+        <test-method signature="NY_Watchtittle()[pri:10, instance:TestCases.NewYork_info@5bda8e08]" started-at="2024-02-20T16:56:51 IST" name="NY_Watchtittle" finished-at="2024-02-20T16:56:51 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NY_Watchtittle -->
+        <test-method signature="NY_Time()[pri:11, instance:TestCases.NewYork_info@5bda8e08]" started-at="2024-02-20T16:56:51 IST" name="NY_Time" finished-at="2024-02-20T16:56:51 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NY_Time -->
+        <test-method signature="NY_Date()[pri:12, instance:TestCases.NewYork_info@5bda8e08]" started-at="2024-02-20T16:56:51 IST" name="NY_Date" finished-at="2024-02-20T16:56:51 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NY_Date -->
+        <test-method signature="NY_Timegap()[pri:13, instance:TestCases.NewYork_info@5bda8e08]" started-at="2024-02-20T16:56:51 IST" name="NY_Timegap" finished-at="2024-02-20T16:56:51 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NY_Timegap -->
+      </class> <!-- TestCases.NewYork_info -->
+      <class name="TestCases.User_Validation">
+        <test-method is-config="true" signature="getWebDriver(java.lang.String)[pri:0, instance:TestCases.User_Validation@217ed35e]" started-at="2024-02-20T16:56:00 IST" name="getWebDriver" finished-at="2024-02-20T16:56:38 IST" duration-ms="37886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWebDriver -->
+        <test-method signature="user()[pri:1, instance:TestCases.User_Validation@217ed35e]" started-at="2024-02-20T16:56:38 IST" name="user" finished-at="2024-02-20T16:56:50 IST" duration-ms="11440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user -->
+      </class> <!-- TestCases.User_Validation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

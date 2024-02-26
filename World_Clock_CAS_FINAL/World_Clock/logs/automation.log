@@ -1,0 +1,53 @@
+16:56:38.530 [main] INFO  TestCases.User_Validation - -----1 test case for -chrome-------
+16:56:38.541 [main] INFO  TestCases.User_Validation - browser opens sucess
+16:56:45.031 [main] INFO  TestCases.User_Validation - -----2 test case for --------
+16:56:45.031 [main] INFO  TestCases.User_Validation - user validation sucess
+16:56:50.456 [main] INFO  TestCases.User_Validation - -----3 test case for --------
+16:56:50.457 [main] INFO  TestCases.User_Validation -  world clock title sucess
+16:56:50.893 [main] INFO  TestCases.User_Validation - -----4 test case for --------
+16:56:50.893 [main] INFO  TestCases.User_Validation - india title sucess
+16:56:50.990 [main] INFO  TestCases.User_Validation - -----5 test case for --------
+16:56:50.990 [main] INFO  TestCases.User_Validation - india time validation sucess
+16:56:51.148 [main] INFO  TestCases.User_Validation - -----6 test case for --------
+16:56:51.149 [main] INFO  TestCases.User_Validation - india date validation sucess
+16:56:51.242 [main] INFO  TestCases.User_Validation - -----7 test case for --------
+16:56:51.242 [main] INFO  TestCases.User_Validation - lodon title sucess
+16:56:51.380 [main] INFO  TestCases.User_Validation - -----8 test case for --------
+16:56:51.380 [main] INFO  TestCases.User_Validation - lodon time validation sucess
+16:56:51.517 [main] INFO  TestCases.User_Validation - -----9 test case for --------
+16:56:51.518 [main] INFO  TestCases.User_Validation - london date validation sucess
+16:56:51.649 [main] INFO  TestCases.User_Validation - -----10 test case for --------
+16:56:51.649 [main] INFO  TestCases.User_Validation - time gap validation sucess
+16:56:51.713 [main] INFO  TestCases.User_Validation - -----11 test case for --------
+16:56:51.714 [main] INFO  TestCases.User_Validation - newyork tittle  sucess
+16:56:51.799 [main] INFO  TestCases.User_Validation - -----12 test case for --------
+16:56:51.799 [main] INFO  TestCases.User_Validation - newyork time validation  sucess
+16:56:51.884 [main] INFO  TestCases.User_Validation - -----13 test case for --------
+16:56:51.884 [main] INFO  TestCases.User_Validation - newyork date validation sucess
+16:56:51.991 [main] INFO  TestCases.User_Validation - -----14 test case for --------
+16:56:51.992 [main] INFO  TestCases.User_Validation - newyork time gap validation  sucess
+16:56:52.025 [main] INFO  TestCases.User_Validation - -----15 test case for --------
+16:56:52.026 [main] INFO  TestCases.User_Validation - scroll back to one cognizant sucess
+16:57:12.670 [main] INFO  TestCases.User_Validation - -----16 test case for --------
+16:57:12.670 [main] INFO  TestCases.User_Validation - all hot apps displayed sucess
+16:57:16.309 [main] INFO  TestCases.User_Validation - -----17 test case for --------
+16:57:16.310 [main] INFO  TestCases.User_Validation -  X is Disabled
+16:57:16.315 [main] INFO  TestCases.User_Validation - *****Seventeenth Test Case*****null
+16:57:28.697 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+16:57:28.698 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:57:28.933 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:57:28.944 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:57:28.953 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:57:28.966 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:57:28.967 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:57:28.967 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:57:28.971 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:57:28.976 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:57:28.979 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:57:28.981 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:57:28.982 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:57:28.984 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:57:28.985 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:57:28.986 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:57:28.989 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:57:28.991 [main] INFO  TestCases.User_Validation - Random Alphabet Validation Completed.....☑️

@@ -1,0 +1,30 @@
+13:07:36.162 [main] INFO  TestCases.User_Validation - *****Third Test Case*****
+13:07:36.314 [main] INFO  TestCases.User_Validation - Banglore Title Validation Completed.....☑️
+13:07:36.322 [main] INFO  TestCases.User_Validation - *****Fourth Test Case*****
+13:07:36.382 [main] INFO  TestCases.User_Validation - Banglore Time Validation Completed.....☑️
+13:07:36.389 [main] INFO  TestCases.User_Validation - *****Fifth Test Case*****
+13:07:36.511 [main] INFO  TestCases.User_Validation - Banglore Date Validation Successfully.....☑️
+13:07:36.522 [main] INFO  TestCases.User_Validation - *****Sixth Test Case*****
+13:07:36.588 [main] INFO  TestCases.User_Validation - London Title Validation Completed.....☑️
+13:07:36.713 [main] INFO  TestCases.User_Validation - London Time Validation Completed.....☑️
+13:07:36.719 [main] INFO  TestCases.User_Validation - *****Eighth Test Case*****
+13:07:36.827 [main] INFO  TestCases.User_Validation - London Date Validation Completed.....☑️
+13:07:36.839 [main] INFO  TestCases.User_Validation - *****Nineth Test Case*****
+13:07:36.953 [main] INFO  TestCases.User_Validation - Timegap between Banglore and London Validation Completed.....☑️
+13:07:36.961 [main] INFO  TestCases.User_Validation - *****Tenth Test Case*****
+13:07:37.023 [main] INFO  TestCases.User_Validation - New York Title Validation Completed.....☑️
+13:07:37.033 [main] INFO  TestCases.User_Validation - *****Eleventh Test Case*****
+13:07:37.147 [main] INFO  TestCases.User_Validation - New York Time Validation Completed.....☑️
+13:07:37.156 [main] INFO  TestCases.User_Validation - *****Twelveth Test Case*****
+13:07:37.271 [main] INFO  TestCases.User_Validation - New York Date Validation Completed.....☑️
+13:07:37.277 [main] INFO  TestCases.User_Validation - *****Threenth Test Case*****
+13:07:37.385 [main] INFO  TestCases.User_Validation - Timegap between Banglore and New York Validation Completed.....☑️
+13:07:37.392 [main] INFO  TestCases.User_Validation - *****Fourteenth Test Case*****
+13:07:37.906 [main] INFO  TestCases.User_Validation - ------Successfully Scroll Down------
+13:07:42.922 [main] INFO  TestCases.User_Validation - *****Fifteenth Test Case*****
+13:07:56.378 [main] INFO  TestCases.User_Validation - Switch to OneCognizant Validation Completed.....☑️
+13:07:56.383 [main] INFO  TestCases.User_Validation - *****Sixteenth Test Case*****
+13:08:00.777 [main] INFO  TestCases.User_Validation - Disabled 'X' Validation Completed.....☑️
+13:08:00.784 [main] INFO  TestCases.User_Validation - *****Seventeenth Test Case*****Chrome
+13:08:12.322 [main] INFO  TestCases.User_Validation - Random Alphabet Validation Completed.....☑️
+13:08:13.217 [main] INFO  TestCases.User_Validation - *****All Test Cases Successful*****
